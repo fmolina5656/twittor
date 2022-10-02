@@ -1,7 +1,7 @@
 console.log("antes");
 var url = window.location.href;
 
-var serviceWorkerLocation ="/twittor/sw,js"
+var serviceWorkerLocation ="/twittor/sw.js"
 
 if( navigator.serviceWorker){
 
